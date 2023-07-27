@@ -7,8 +7,6 @@
 ![R](https://img.shields.io/badge/R-Language-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![R](https://img.shields.io/badge/Be-Safe-E5320?style=for-the-badge&logo=love&logoColor=white)
-
-## 
   
 To test run these scripts in the terminal, try:
 
@@ -17,6 +15,10 @@ To use flanking_SSR_scripts, user will require three input files i.e. SSR sequen
 1. perl script_1.pl input_1.txt input_2.fa 404_genomes.fa >final   {input_2.fa is an empty file}
 2. perl script_2.pl
 ```
+
+### Running the Rscripts
+All the R-scripts can be run in an IDE of the user's choice. All required packages are present in the scripts and thus need to be installed. 
+
 ## Citation
 
 If you use these scripts in your research, please cite us as follows:
