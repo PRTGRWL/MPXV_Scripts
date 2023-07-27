@@ -2,8 +2,13 @@
 use strict;
 use warnings;
 
-#USAGE                                                             #{ ADD list of motif in loop to extend N on both side till 10Ns}
-my $num=1;
+# @ Preeti Agarwal
+# Cite : Preeti Agarwal, Nityendra Shukla, Sahil Mahfooz*, Jitendra Narayan* **Comparative Genome Analysis Reveals Insights into Driving Forces behind Monkeypox Virus Evolution and Sheds Light on the Active Role of Trinucleotide Motif ATC** 2023
+# Contact : prtgrwl8@gmail.com
+#USAGE : perl script_1.pl input_1.txt input_2.fa 404_genomes.fa>final                                                         
+
+
+my $num=1;                                                  #{ ADD list of motif in loop to extend N on both side till 10Ns}
 
 my @all_result;
 my %all_identifier;
@@ -54,7 +59,7 @@ my @k_real=split(/_/,$new_k[1]);
  		if ($k eq $array2[2]) {
 		#$array2[6]=~ s/\n//g;;
 		#=~s/\r|\n//g;
-		#print "$k, $array2[2], jitendra $array2[6]\n";   #{$k and $array2[2] are same i.e. pattern NNNNCAGAAACAGAAANNNN, NNNNCAGAAACAGAAANNNN, jitendra CTCTCAGAAACAGAAACTTG}
+		#print "$k, $array2[2], HELLO $array2[6]\n";   #{$k and $array2[2] are same i.e. pattern NNNNCAGAAACAGAAANNNN, NNNNCAGAAACAGAAANNNN, HELLO CTCTCAGAAACAGAAACTTG}
 	
 		push (@loci,$array2[6]);
          	}
