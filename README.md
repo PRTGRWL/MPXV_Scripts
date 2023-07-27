@@ -13,7 +13,9 @@
 To test run these scripts in the terminal, try:
 
 ```
-Commands here
+To use flanking_SSR_scripts, user will require three input files i.e. SSR sequence text file, one empty fasta file and a concatenated fasta file of all genomes. Two scripts are there to fetch SSR flanking regions and also to retrieve SSR_flanks common in all 404 genomes. Below are the command lines to use both the scripts.
+1. perl script_1 input.txt input_2.fa 404_genome.fa >final   {input_2.fa is an empty file}
+2. perl script_2
 ```
 ## Citation
 
