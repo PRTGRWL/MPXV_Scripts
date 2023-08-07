@@ -19,6 +19,9 @@ To use flanking_SSR_scripts, user will require three input files i.e. SSR sequen
 ### Running the Rscripts
 All the R-scripts can be run in an IDE of the user's choice. All required packages are present in the scripts and thus need to be installed. 
 
+MPXV_reference genome infomation has been taken from below link to describe functional category of all genes:
+https://viralzone.expasy.org/9959#:~:text=Monkeypox%20virus%20genome,'%20or%205'%20ends).
+
 ## Citation
 
 If you use these scripts in your research, please cite us as follows:
