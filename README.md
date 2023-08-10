@@ -23,7 +23,8 @@ MPXV_reference genome infomation has been taken from below link to describe func
 https://viralzone.expasy.org/9959#:~:text=Monkeypox%20virus%20genome,'%20or%205'%20ends). 
 
 
-![functional_categories_of_MPXV](https://github.com/PRTGRWL/MPXV_Scripts/assets/100923187/289133b1-33a3-498c-8e5b-18fa885fccd8)
+![functional_categories_of_MPXV](https://github.com/PRTGRWL/MPXV_Scripts/assets/100923187/d5f744c9-76a9-429d-8a1f-248a8eb722f8)
+
 
 ## Citation
 
