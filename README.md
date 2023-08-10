@@ -22,6 +22,9 @@ All the R-scripts can be run in an IDE of the user's choice. All required packag
 MPXV_reference genome infomation has been taken from below link to describe functional category of all genes:
 https://viralzone.expasy.org/9959#:~:text=Monkeypox%20virus%20genome,'%20or%205'%20ends). 
 
+
+![functional_categories_of_MPXV](https://github.com/PRTGRWL/MPXV_Scripts/assets/100923187/289133b1-33a3-498c-8e5b-18fa885fccd8)
+
 ## Citation
 
 If you use these scripts in your research, please cite us as follows:
