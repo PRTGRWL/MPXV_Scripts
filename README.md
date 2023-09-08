@@ -28,7 +28,7 @@ https://viralzone.expasy.org/9959#:~:text=Monkeypox%20virus%20genome,'%20or%205'
 
 If you use these scripts in your research, please cite us as follows:
 
-  Preeti Agarwal, Nityendra Shukla, XXX, Sahil Mahfooz*, Jitendra Narayan* **Comparative Genome Analysis Reveals Insights into Driving Forces behind Monkeypox Virus Evolution and Sheds Light on the Active Role of Trinucleotide Motif ATC** 2023
+  Preeti Agarwal, Nityendra Shukla, Sahil Mahfooz*, Jitendra Narayan* **Comparative Genome Analysis Reveals Insights into Driving Forces behind Monkeypox Virus Evolution and Sheds Light on the Active Role of Trinucleotide Motif ATC** 2023
 
 BibTex:
 
