@@ -34,7 +34,7 @@ BibTex:
 
 ```
 @misc{
-  author={Preeti Agarwal, Nityendra Shukla, XXX, Sahil Mahfooz*, Jitendra Narayan*}
+  author={Preeti Agarwal, Nityendra Shukla, Sahil Mahfooz*, Jitendra Narayan*}
   title={Comparative Genome Analysis Reveals Insights into Driving Forces behind Monkeypox Virus Evolution and Sheds Light on the Active Role of Trinucleotide Motif ATC},
   note={Version 0.1},
   year={2023}
