@@ -1,3 +1,9 @@
+
+# @ Preeti Agarwal
+# Cite : Preeti Agarwal, Nityendra Shukla, Sahil Mahfooz*, Jitendra Narayan* **Comparative Genome Analysis Reveals Insights into Driving Forces behind Monkeypox Virus Evolution and Sheds Light on the Active Role of Trinucleotide Motif ATC** 2023
+# Contact : prtgrwl8@gmail.com
+# usage : python SSRmlcr.py 
+
 import pandas as pd
 
 # Read the data from the Excel file
