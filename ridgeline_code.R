@@ -2,7 +2,7 @@
 
 # © Nityendra Shukla
 # Please cite our work if you use this script: Preeti Agarwal, Nityendra Shukla, \
-# XXX, Sahil Mahfooz*, Jitendra Narayan* Comparative Genome Analysis Reveals Insights \
+# Ajay Bhatia, Sahil Mahfooz*, Jitendra Narayan* Comparative Genome Analysis Reveals Insights \
 # into Driving Forces behind Monkeypox Virus Evolution and Sheds Light on the \
 # Active Role of Trinucleotide Motif ATC 2023.
 # Contact: nitinshukla218@gmail.com
