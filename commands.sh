@@ -1,6 +1,6 @@
 #!/bin/bash 
 ############################################################
-# Cite : Preeti Agarwal, Nityendra Shukla, Sahil Mahfooz*, Jitendra Narayan* 
+# Cite : Preeti Agarwal, Nityendra Shukla, Ajay Bhatia, Sahil Mahfooz*, Jitendra Narayan* 
 # **Comparative Genome Analysis Reveals Insights into Driving Forces behind Monkeypox Virus Evolution and Sheds Light on the Active Role 
 # of Trinucleotide Motif ATC** 2023
 # Contact : prtgrwl8@gmail.com
