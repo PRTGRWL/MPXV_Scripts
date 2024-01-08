@@ -3,7 +3,7 @@ use strict;
 use warnings;
 
 # @ Preeti Agarwal
-# Cite : Preeti Agarwal, Nityendra Shukla, Sahil Mahfooz*, Jitendra Narayan* **Comparative Genome Analysis Reveals Insights into Driving Forces behind Monkeypox Virus Evolution and Sheds Light on the Active Role of Trinucleotide Motif ATC** 2023
+# Cite : Preeti Agarwal, Nityendra Shukla, Ajay Bhatia,Sahil Mahfooz*, Jitendra Narayan* **Comparative Genome Analysis Reveals Insights into Driving Forces behind Monkeypox Virus Evolution and Sheds Light on the Active Role of Trinucleotide Motif ATC** 2023
 # Contact : prtgrwl8@gmail.com
 #USAGE : perl script_1.pl input_1.txt input_2.fa 404_genomes.fa>final                                                         
 
