@@ -32,11 +32,11 @@ close FH;
 close FH2;
 }
 
-#system ("seqkit locate -i -d -P -f $ARGV[1] $ARGV[2] >out_locate$ARGV[2].tsv");                       # { Seqkit locate used to find nucleotide for N's in 404 genome}
+system ("seqkit locate -i -d -P -f $ARGV[1] $ARGV[2] >out_locate$ARGV[2].tsv");                       # { Seqkit locate used to find nucleotide for N's in 404 genome}
 
 my %merge;
-#open (FH3,"out_locate$ARGV[2].tsv") or die 'error';
-open (FH3,"out.tsv") or die 'error';
+open (FH3,"out_locate$ARGV[2].tsv") or die 'error';
+#open (FH3,"out.tsv") or die 'error';
 my @all_lines=<FH3>;
 
 for(my $i=1;$i<=$#all_lines;$i=$i+1){
@@ -87,32 +87,4 @@ my %all_identifier;
 
 undef @loci;
 }
-# process unique file
-
-
-foreach my $key (keys %all_identifier){
-        #print $key
-
-my $pattern_len1=0;
-
-         for (my $p=0;$p<=@all_result;$p++){
-                my @array_string =split(/\t/,$all_result[$p]);
-
-my $pattern;
-                if ($array_string[0] == $key) {
-
-my $string_len1=length ($array_string[1]);
-
-
-                if ($pattern_len1<$string_len1) {
-                         $pattern = $array_string[1]; }
-
-my $pattern_len1=length($pattern);
-
-}
-  print "$key\t$pattern\t$pattern_len1\n";
-
-}}
-
-
-__END__
+exit;
